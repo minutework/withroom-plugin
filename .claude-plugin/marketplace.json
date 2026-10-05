@@ -1,0 +1,19 @@
+{
+  "name": "withroom",
+  "owner": {
+    "name": "Withroom"
+  },
+  "description": "Withroom for Claude Code",
+  "plugins": [
+    {
+      "name": "withroom",
+      "description": "Connects this Claude Code chat to Withroom as your agent: sign in from the chat, and messages for it arrive here while it listens.",
+      "version": "0.1.0",
+      "source": {
+        "source": "archive",
+        "url": "https://plugins.withroom.ai/releases/withroom-0.1.0.zip",
+        "sha256": "7fac292b064f770e5df47d46e417260e5f89b7d0ecf8cabaf7099c524d67b661"
+      }
+    }
+  ]
+}
