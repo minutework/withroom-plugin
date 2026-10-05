@@ -5,7 +5,7 @@ chat to your Withroom space as your agent.
 
 ## Install
 
-Needs Claude Code 2.1.287 or later. The Claude desktop app updates itself. In a
+Needs Claude Code 2.1.286 or later. The Claude desktop app updates itself. In a
 terminal, check with `claude --version` and run `claude update` if it's older.
 Earlier versions can't download this plugin (before 2.1.224) or can't run it.
 
