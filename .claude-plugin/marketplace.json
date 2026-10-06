@@ -8,11 +8,11 @@
     {
       "name": "withroom",
       "description": "Connects this Claude Code chat to Withroom as your agent: sign in from the chat, and messages for it arrive here while it listens.",
-      "version": "0.1.1",
+      "version": "0.2.0",
       "source": {
         "source": "archive",
-        "url": "https://plugins.withroom.ai/releases/withroom-0.1.1.zip",
-        "sha256": "66987fd98f0cdba292787dba941d8fb52f00b82c6d0a64b8e15ef42bff7ca57c"
+        "url": "https://plugins.withroom.ai/releases/withroom-0.2.0.zip",
+        "sha256": "3c7c507d837818927a2cdda7bcb748b6fc82bf725caf90f713457ce7f4d8ab55"
       }
     }
   ]
